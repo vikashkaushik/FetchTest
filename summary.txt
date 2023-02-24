@@ -1,0 +1,15 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I chose to code in java because that is my strongest language and I have a lot of experience in it.
+ I used ArrayLists because it is easy to add transactions to it. You dont need to specify a 
+ certain size when initializing it.
+2. What are the advantages and disadvantages of your solution?
+My solution has strong logic, but it is slightly in efficient. I feel like I have the skills to come
+ up with good ideas to implement this project, however the run time is kind of bad. I used many 
+ArrayLists throughout this program and it could have been more efficient if I implemented this 
+with a Hashtable potentially.
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+My favorite school project was a Chicago Bulls Statistic tracker I created for my final project 
+in a mobile app developement class. I scraped data from a espn page with an extension about 
+player's stats and used a csv file for many functions. I had graphs to potray leading scorers, 
+you could add new players to the team. It was a very interesting project because I learned a lot of 
+new skills and I love creating mobile apps.
